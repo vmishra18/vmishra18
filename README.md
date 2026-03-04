@@ -1,86 +1,122 @@
-# Hi there 👋 I'm Vishal
+<p align="center">
 
-Software engineer focused on building reliable software systems, mobile applications, and data-driven tools.  
-I enjoy turning complex ideas into practical products that are scalable, maintainable, and useful in real-world environments.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishal+👋;Software+Engineer;Builder+of+useful+software;Backend+%7C+Mobile+%7C+Data;Always+learning+new+systems" />
 
-I work across the stack, but my main interests are **backend engineering, system architecture, and mobile platforms**.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- Building mobile developer tools using **React Native and TypeScript**
-- Designing scalable backend services with **Python, Java, and SQL**
-- Improving reliability of systems through better architecture and observability
-- Experimenting with developer productivity tools and automation
+</p>
 
 ---
 
-## 🧠 Things I Enjoy Building
+# 👋 Hello, I'm Vishal
 
-- Mobile applications with clean UX and smooth performance  
-- Backend systems that handle real workloads reliably  
-- Developer tools that simplify engineering workflows  
-- Data pipelines and analytics dashboards  
+I’m a software engineer who enjoys building systems that are **practical, scalable, and reliable**.  
 
----
+Most of my work revolves around backend engineering, mobile applications, and data-driven tools. I like understanding how systems behave under real workloads and designing solutions that remain maintainable as they grow.
 
-## 🛠 Tech Stack
-
-### Languages
-Python • Java • TypeScript • JavaScript • SQL • Rust • Go
-
-### Backend
-REST APIs • Microservices • Spring Boot • Node.js • Flask
-
-### Mobile
-React Native • TypeScript • Expo
-
-### Data
-PostgreSQL • MySQL • ETL Pipelines • Data Analytics
-
-### Cloud & DevOps
-AWS • Docker • Kubernetes • CI/CD • GitHub Actions
+I’m particularly interested in **distributed systems, developer tooling, and well-designed APIs**.
 
 ---
 
-## 📂 Selected Projects
+## 🚀 What I'm currently building
+
+- Mobile tools using **React Native + TypeScript**
+- Backend services using **Python and Java**
+- Data analytics and automation tools
+- Developer workflows that reduce friction and improve reliability
+
+---
+
+## 🧠 Things I enjoy working on
+
+- Designing clean system architectures  
+- Building APIs that are easy to understand and maintain  
+- Creating developer tools that make engineers more productive  
+- Turning messy real-world data into meaningful insights  
+
+---
+
+## 🛠 Tech I work with
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</p>
+
+---
+
+## 📂 Projects I'm proud of
 
 ### 🚗 Driving Test Toolkit
-Mobile application combining theory tests, hazard perception training, and driver utilities into a single toolkit.
+A mobile application combining theory tests, hazard perception training, and driving utilities into one toolkit.
 
-Tech: React Native • TypeScript
+Tech  
+React Native • TypeScript • Mobile UI Architecture
 
 ---
 
 ### 📊 Azure DevOps Insights
-Analytics tool that collects build and release metrics using Azure DevOps APIs and visualizes engineering data in dashboards.
+A data analytics tool that gathers build and release metrics from Azure DevOps and visualises engineering performance using dashboards.
 
-Tech: C# • Azure DevOps API • Power BI
-
----
-
-### 🛰 Satellite ERP System
-Backend application structured around service-based architecture for managing operational data and analytics dashboards.
-
-Tech: Python • Flask • PostgreSQL
+Tech  
+C# • Azure DevOps API • Power BI • Data Analytics
 
 ---
 
-## ⚙ Engineering Principles I Follow
+### 🛰 Satellite Operations System
+A backend service for managing structured operational data with analytics dashboards and service-based architecture.
 
-- Write code that remains understandable months later
-- Design systems that fail gracefully instead of unpredictably
-- Prioritize simplicity over unnecessary complexity
-- Build practical solutions that solve real problems
+Tech  
+Python • Flask • PostgreSQL
 
 ---
 
-## 🌍 Connect With Me
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vmishra18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vmishra18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚙️ Engineering Principles I Try to Follow
+
+- Code should remain understandable months later  
+- Systems should fail gracefully rather than unpredictably  
+- Simplicity is often better than cleverness  
+- Good software solves real problems  
+
+---
+
+## 🌍 Connect
 
 GitHub  
 https://github.com/vmishra18
 
 ---
 
-⭐ Always interested in building useful software and learning new technologies.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vmishra18&style=for-the-badge&color=blue"/>
+
+</p>
