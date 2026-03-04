@@ -111,8 +111,9 @@ Python • Flask • PostgreSQL
 
 ## 🌍 Connect
 
-GitHub  
-https://github.com/vmishra18
+GitHub : https://github.com/vmishra18
+
+Linkedln : https://www.linkedin.com/in/vishalmishra018/
 
 ---
 
