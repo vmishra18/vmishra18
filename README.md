@@ -80,11 +80,12 @@ Python • Flask • PostgreSQL
 ## 📈 GitHub Activity
 
 <p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmishra18&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vmishra18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmishra18&theme=tokyonight" />
 </p>
 
 ---
