@@ -7,38 +7,30 @@
 </p>
 
 <p align="center">
-Software Engineer building reliable backend services, mobile applications, and data systems.
+Engineer building backend services, mobile applications, and data-driven systems.
 </p>
 
 ---
 
 # About Me
 
-I am a software engineer focused on building **reliable systems that operate well in production environments**.
+I am a software engineer focused on building reliable systems that operate effectively in production environments.
 
-My work centres around designing **backend services, APIs, and data-driven applications** that remain maintainable, observable, and scalable over time.
+My work centres around designing backend services, APIs, and data-driven applications that remain maintainable, observable, and scalable over time.
 
-I enjoy building software that connects **applications, data, and automation** to solve real operational problems.
+I enjoy building software that connects applications, data, and automation to solve real operational problems.
 
-My interests are particularly aligned with:
-
-• backend engineering  
-• distributed systems  
-• developer productivity tooling  
-• data platforms and analytics systems  
-• scalable application infrastructure
-
-I hold a **Master’s degree in Advanced Computer Science** and enjoy continuously learning how complex software systems evolve in production.
+I hold a Master’s degree in Advanced Computer Science and continue exploring how complex software systems evolve at scale.
 
 ---
 
-# What I Am Currently Working On
+# Current Focus
 
-• Backend services and API design  
-• Event driven system architectures  
-• Data pipelines and analytics tooling  
-• React Native mobile applications  
-• Engineering observability and automation tools
+• Backend architecture and API design
+• Distributed and event-driven systems
+• Data pipelines and analytics tooling
+• React Native mobile development
+• Automation and developer productivity
 
 ---
 
@@ -46,61 +38,49 @@ I hold a **Master’s degree in Advanced Computer Science** and enjoy continuous
 
 ### DrivingTest 4 in 1
 
-Mobile learning application designed to help UK learner drivers practise theory tests with a focus on accessibility and mobile performance.
+Mobile learning application helping UK learner drivers practise theory tests with a focus on accessibility, usability, and mobile performance.
 
-Tech  
+Tech
 React Native • TypeScript • Expo
 
-Repository  
+Repository
 https://github.com/vmishra18/DrivingTest-4-in-1
 
 ---
 
 ### AzureDevOpsInsights
 
-Engineering analytics platform that collects build and deployment metrics from Azure DevOps and converts them into actionable engineering insights.
+Engineering analytics tool collecting build and deployment metrics from Azure DevOps APIs and transforming them into engineering performance insights.
 
-Tech  
+Tech
 C# • Azure DevOps API • SQL Server • Power BI
 
-Repository  
+Repository
 https://github.com/vmishra18/AzureDevOpsInsights
 
 ---
 
 ### UK Immigration Study Visa Chatbot
 
-AI powered assistant answering UK study visa questions using natural language understanding and LLM retrieval systems.
+AI-powered assistant answering UK study visa questions using natural language understanding and retrieval-based large language models.
 
-Tech  
+Tech
 Python • Rasa • Flask • Llama 2 • ChromaDB
 
-Repository  
+Repository
 https://github.com/vmishra18/UK-Immigration-Chatbot-for-Study-Visas
 
 ---
 
-### rn posts assessment
+### rn-posts-assessment
 
-React Native application consuming external APIs and implementing resilient UI behaviour for loading states, retries, and error handling.
+React Native application integrating external APIs while implementing resilient UI behaviour for loading states, retries, and error handling.
 
-Tech  
+Tech
 React Native • TypeScript • REST APIs
 
-Repository  
+Repository
 https://github.com/vmishra18/rn-posts-assessment
-
----
-
-### social network core
-
-Prototype mobile social networking platform supporting media uploads, comments, and location-based interactions.
-
-Tech  
-JavaScript • Mobile Development
-
-Repository  
-https://github.com/vmishra18/social-network-core
 
 ---
 
@@ -108,23 +88,11 @@ https://github.com/vmishra18/social-network-core
 
 Full stack reservation platform supporting booking workflows, user accounts, and room availability management.
 
-Tech  
+Tech
 JavaScript • Web Applications • Backend Services
 
-Repository  
+Repository
 https://github.com/vmishra18/Hotel-Room-Booking-System
-
----
-
-### TaskPilot
-
-Lightweight productivity application designed to organise tasks and improve personal workflow management.
-
-Tech  
-Python
-
-Repository  
-https://github.com/vmishra18/TaskPilot
 
 ---
 
@@ -134,19 +102,19 @@ https://github.com/vmishra18/TaskPilot
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,postgres,aws,docker,git,linux"/>
 </p>
 
-Backend  
+Backend
 Python • Java • Node.js • REST API design
 
-Mobile  
+Mobile
 React Native • TypeScript
 
-Infrastructure  
+Infrastructure
 AWS • Docker • Linux • Git
 
-Databases  
+Databases
 PostgreSQL • SQL Server
 
-Analytics  
+Analytics
 Power BI • Data pipelines • API integrations
 
 ---
@@ -170,20 +138,20 @@ Power BI • Data pipelines • API integrations
 
 # Engineering Principles
 
-• Software should remain understandable long after it is written  
-• Prefer simplicity and reliability over clever abstractions  
-• Systems should fail safely and recover gracefully  
-• Build tools that genuinely improve how people work  
-• Observability and debugging should be first class concerns
+• Software should remain understandable long after it is written
+• Prefer simplicity and reliability over unnecessary complexity
+• Design systems that fail safely and recover gracefully
+• Build tools that improve developer productivity
+• Treat observability and debugging as first-class concerns
 
 ---
 
 # Connect
 
-GitHub  
+GitHub
 https://github.com/vmishra18
 
-LinkedIn  
+LinkedIn
 https://www.linkedin.com/in/vishal-mishra-0959601a4
 
 ---
