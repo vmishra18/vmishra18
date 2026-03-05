@@ -1,49 +1,78 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=200&section=header&text=Vishal%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=200&section=header&text=Vishal%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Systems+%7C+Mobile+Development;APIs+%7C+Data+Engineering;Building+Reliable+Software"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+%7C+Mobile+%7C+Data+Systems;APIs+%7C+Automation+%7C+Analytics;Build+reliable+systems+that+scale"/>
 </p>
 
 ---
 
-# About Me
+# About
 
-Software engineer focused on building **reliable backend systems, mobile applications, and data-driven tools**.
+Software engineer focused on building **reliable backend services**, **mobile apps**, and **data-driven tooling**.
 
-My work centres around designing services and platforms that remain **maintainable, observable, and scalable** as systems grow.
+I care about clean interfaces, pragmatic architecture, and systems that stay maintainable under real workloads.
 
-I enjoy working on systems where **software, infrastructure, and data intersect**, especially when solving real operational problems.
-
-Areas I enjoy working in
-
-• Backend architecture  
-• Distributed systems  
-• Data pipelines and analytics tooling  
-• Engineering productivity tools  
+Interests  
+• Backend architecture and APIs  
+• Distributed and event-driven systems  
+• Data processing and analytics tooling  
+• Developer productivity and automation  
 
 ---
 
-# Current Focus
+# Featured Projects
 
-• Mobile development using **React Native and TypeScript**  
-• Backend services with **Python and Java**  
-• Data processing pipelines and analytics systems  
-• Improving engineering visibility through metrics and automation
+### DrivingTest-4-in-1
+React Native app helping UK learner drivers practise theory tests with accessibility features like dark mode and text-to-speech.  
+Repo: https://github.com/vmishra18/DrivingTest-4-in-1
+
+Tech  
+React Native • TypeScript • Expo
+
+---
+
+### AzureDevOpsInsights
+Analytics tool that collects Azure DevOps build/release data via REST APIs and visualises insights through Power BI dashboards.  
+Repo: https://github.com/vmishra18/AzureDevOpsInsights
+
+Tech  
+C# • Azure DevOps REST APIs • SQL Server • Power BI
+
+---
+
+### UK-Immigration-Chatbot-for-Study-Visas
+AI chatbot for UK study visa queries built with Rasa + Flask, integrating LLM and vector search components.  
+Repo: https://github.com/vmishra18/UK-Immigration-Chatbot-for-Study-Visas
+
+Tech  
+Python • Rasa • Flask • LLM tooling • Vector DB
+
+---
+
+### rn-posts-assessment
+React Native app fetching posts from a public API with clean loading/error states and retry flow.  
+Repo: https://github.com/vmishra18/rn-posts-assessment
+
+Tech  
+React Native • TypeScript • API integration
+
+---
+
+### results-dashboard
+Frontend dashboard implementing data transformation, charts, and resilient loading/error handling.  
+Repo: https://github.com/vmishra18/results-dashboard
+
+Tech  
+Dashboard UI • Data transformation • Charts
 
 ---
 
 # Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,postgres,aws,docker,git,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,postgres,aws,docker,git,linux" />
 </p>
 
 Backend  
@@ -52,111 +81,30 @@ Python • Java • Node.js • REST APIs
 Mobile / Frontend  
 React • React Native • TypeScript
 
-Infrastructure  
-AWS • Docker • Linux
-
-Data  
-PostgreSQL • Data pipelines • Analytics tooling
-
----
-
-# Featured Projects
-
-### Driving Test Toolkit
-
-Mobile application helping learner drivers prepare for theory tests, hazard perception practice, and driving utilities.
-
-Tech  
-React Native • TypeScript • Mobile UI architecture
-
-Focus  
-Reusable mobile components, navigation architecture, and interactive learning workflows.
-
----
-
-### Satellite Operations System
-
-Backend platform for managing structured operational datasets and exposing analytics dashboards.
-
-Tech  
-Python • Flask • PostgreSQL
-
-Focus  
-API design, data modelling, analytics endpoints.
-
----
-
-### Azure DevOps Engineering Insights
-
-Analytics platform that collects engineering activity metrics from Azure DevOps and visualises delivery performance across teams.
-
-Tech  
-C# • Azure DevOps API • Power BI
-
-Focus  
-Engineering analytics, delivery metrics, operational insights.
-
----
-
-### Event Processing Pipeline
-
-System designed to process high-volume activity logs and generate structured analytics datasets.
-
-Tech  
-Python • Data pipelines • Cloud processing
-
-Focus  
-Event ingestion, batch processing, analytics generation.
-
----
-
-### Developer Workflow Automation
-
-Internal tools designed to automate engineering workflows and improve development visibility.
-
-Tech  
-Python • APIs • automation tooling
+Data / Infra  
+PostgreSQL • AWS • Docker • Linux
 
 ---
 
 # GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmishra18&theme=tokyonight" />
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmishra18&theme=tokyonight" />
 </p>
 
----
-
-# Contribution Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vmishra18&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Development Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vmishra18&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=vmishra18&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # Engineering Principles
 
-• Write software that remains understandable months later  
-• Prefer simplicity and reliability over clever abstractions  
-• Build systems that fail gracefully  
-• Focus on solving real operational problems
+• Clarity beats cleverness  
+• Prefer small, testable units over fragile abstractions  
+• Build for observability and graceful failure  
+• Make tradeoffs explicit in code and docs  
 
 ---
 
@@ -168,16 +116,10 @@ https://github.com/vmishra18
 LinkedIn  
 https://www.linkedin.com/in/vishalmishra018/
 
----
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vmishra18&style=for-the-badge&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=vmishra18&style=for-the-badge&color=blue"/>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4C8BF5&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4C8BF5&height=120&section=footer"/>
 </p>
