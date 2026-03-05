@@ -1,122 +1,125 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=200&section=header&text=Vishal%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=210&section=header&text=Vishal%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+Systems+%7C+Mobile+Development;APIs+%7C+Automation+%7C+Data+Systems;Building+reliable+software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+Systems+%7C+Mobile+Development;APIs+%7C+Data+Platforms+%7C+Automation;Building+Reliable+Software"/>
 </p>
 
 ---
 
-# About Me
+# Software Engineer
 
-Software engineer building **backend services, mobile applications, and data-driven systems**.
+Engineer focused on building **reliable backend services, mobile applications, and data-driven systems**.
 
-I enjoy designing software that is **maintainable, observable, and scalable**, with a focus on clean APIs and practical architecture.
+My work centres around designing software that remains **maintainable, observable, and scalable over time**. I enjoy building systems that combine **clean APIs, structured data flows, and practical architecture** to solve real operational problems.
 
-My work often involves combining **application development, automation, and analytics** to build tools that solve real operational problems.
-
-Interests
-
-• Backend architecture and APIs  
-• Data systems and analytics tooling  
-• Distributed and event-driven systems  
-• Developer productivity and automation  
+I am particularly interested in how software systems evolve in production and how thoughtful engineering decisions improve **stability, performance, and developer productivity**.
 
 ---
 
-# Featured Projects
+# Core Engineering Interests
 
-### DrivingTest-4-in-1
-React Native mobile application helping UK learner drivers practise theory tests with accessibility features such as dark mode and text-to-speech.
+• Backend architecture and API design  
+• Distributed and event-driven systems  
+• Data platforms and analytics tooling  
+• Automation and developer productivity  
+• Scalable application infrastructure  
+
+---
+
+# Selected Projects
+
+### DrivingTest 4 in 1
+Mobile learning application designed to help UK learner drivers practise theory tests. The app focuses on accessibility, usability, and mobile performance.
 
 Tech  
 React Native • TypeScript • Expo
 
-Repo  
+Repository  
 https://github.com/vmishra18/DrivingTest-4-in-1
 
 ---
 
 ### AzureDevOpsInsights
-Analytics tool that collects build and release data from Azure DevOps REST APIs, stores it in SQL Server, and visualises engineering insights through Power BI dashboards.
+Engineering analytics tool that collects build and release metrics from Azure DevOps APIs and transforms them into visual engineering insights.
 
 Tech  
 C# • Azure DevOps API • SQL Server • Power BI
 
-Repo  
+Repository  
 https://github.com/vmishra18/AzureDevOpsInsights
 
 ---
 
-### UK-Immigration-Chatbot-for-Study-Visas
-AI-powered chatbot answering UK study visa questions using an NLU model and LLM-based retrieval.
+### UK Immigration Study Visa Chatbot
+AI-powered assistant answering UK study visa questions using natural language understanding and LLM-based retrieval.
 
 Tech  
 Python • Rasa • Flask • Llama 2 • ChromaDB
 
-Repo  
+Repository  
 https://github.com/vmishra18/UK-Immigration-Chatbot-for-Study-Visas
 
 ---
 
-### rn-posts-assessment
-React Native application fetching data from a public API and displaying posts with resilient loading and retry behaviour.
+### rn posts assessment
+React Native application integrating with public APIs and implementing resilient UI behaviour for loading, retries, and error handling.
 
 Tech  
-React Native • TypeScript • API integration
+React Native • TypeScript • REST APIs
 
-Repo  
+Repository  
 https://github.com/vmishra18/rn-posts-assessment
 
 ---
 
-### social-network-core
-Mobile social network application supporting photo uploads, comments, and geolocation-based interactions.
+### social network core
+Prototype mobile social networking platform supporting media uploads, comments, and location-based interactions.
 
 Tech  
-JavaScript • Mobile development
+JavaScript • Mobile Development
 
-Repo  
+Repository  
 https://github.com/vmishra18/social-network-core
 
 ---
 
-### Hotel-Room-Booking-System
-Full-stack web platform for hotel reservations including booking workflows, user management, and room availability tracking.
+### Hotel Room Booking System
+Full stack reservation platform supporting booking workflows, user accounts, and room availability management.
 
 Tech  
-JavaScript • Full-stack architecture
+JavaScript • Web Applications • Backend Services
 
-Repo  
+Repository  
 https://github.com/vmishra18/Hotel-Room-Booking-System
 
 ---
 
 ### TaskPilot
-Productivity tool designed to organise tasks and improve workflow management.
+Lightweight productivity tool designed to organise tasks and improve personal workflow management.
 
 Tech  
 Python
 
-Repo  
+Repository  
 https://github.com/vmishra18/TaskPilot
 
 ---
 
-# Tech Stack
+# Technology Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,postgres,aws,docker,git,linux"/>
 </p>
 
 Backend  
-Python • Java • Node.js • REST APIs
+Python • Java • Node.js • REST API design
 
 Mobile  
 React Native • TypeScript
 
-Data & Infrastructure  
+Data and Infrastructure  
 PostgreSQL • AWS • Docker • Linux
 
 Analytics  
@@ -124,7 +127,7 @@ Power BI • Data pipelines • API integrations
 
 ---
 
-# GitHub Stats
+# GitHub Activity
 
 <p align="center">
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight"/>
@@ -139,10 +142,10 @@ Power BI • Data pipelines • API integrations
 
 # Engineering Principles
 
-• Keep software understandable long after it is written  
+• Software should remain understandable long after it is written  
 • Prefer simplicity and reliability over clever abstractions  
-• Build systems that fail gracefully  
-• Focus on solving real problems  
+• Design systems that fail safely and recover gracefully  
+• Build tools that genuinely improve how people work  
 
 ---
 
