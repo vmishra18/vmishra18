@@ -7,33 +7,63 @@
 </p>
 
 <p align="center">
-Software Engineer focused on building reliable backend systems, APIs, and mobile applications.
+Software Engineer building reliable backend systems, APIs, and data platforms.
 </p>
 
 ---
 
-# About Me
+## About Me
 
-I build software designed to **operate reliably in real production environments**.
+Software engineer focused on building **reliable backend services, APIs, and data-driven systems**.
 
-My work focuses on **backend services, APIs, and data driven applications**, with an emphasis on systems that remain maintainable, observable, and scalable as they grow.
+I enjoy designing software that remains **maintainable, observable, and scalable in production environments**, with particular interest in distributed systems and data platforms.
 
-I enjoy solving practical engineering problems by connecting **applications, infrastructure, and data systems** to build useful and dependable tools.
+I hold a **Master’s degree in Advanced Computer Science** and continuously explore how large software systems evolve and operate at scale.
 
-My main areas of interest include:
+---
+
+## Areas of Interest
 
 • Backend engineering  
 • Distributed systems  
 • Data platforms and analytics infrastructure  
-• Developer productivity tooling  
-• Scalable application architecture
-
-I hold a **Master’s degree in Advanced Computer Science** and enjoy continuously learning how large software systems evolve and operate in production.
+• Event-driven architectures  
+• Scalable application infrastructure  
 
 ---
 
-# Current Focus
+## Tech Stack
 
-• Backend service architecture and API design  
-• Event driven systems and asynchronous processing  
+**Languages**
+
+Python • Java • Go • Rust • TypeScript • SQL
+
+**Backend & Infrastructure**
+
+Flask • Django • Node.js • PostgreSQL • Kafka • Redis
+
+**Cloud & DevOps**
+
+AWS • Docker • Kubernetes • CI/CD
+
+**Mobile**
+
+React Native • TypeScript
+
+---
+
+## Current Focus
+
+• Backend service architecture  
+• Event-driven systems  
 • Data pipelines and analytics platforms
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/vishal-mishra-0959601a4
+
+Portfolio  
+https://vmishra.dev
