@@ -85,7 +85,8 @@ Python • Flask • PostgreSQL
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/vmishra18?template=classic&languages=1&achievements=1&base=header%2Cactivity%2Crepositories&config.timezone=Europe%2FLondon" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmishra18&theme=tokyonight" />
 </p>
 
 ---
