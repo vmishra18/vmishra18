@@ -70,6 +70,48 @@ Typical areas I focus on include:
 
 ---
 
+## Selected Projects
+
+### UK Immigration Visa Chatbot  
+Python • Flask • Rasa • Llama 2 • Vector Search  
+
+AI-powered chatbot designed to assist users with UK study visa queries.
+
+• Built NLU pipeline using Rasa to interpret immigration-related questions  
+• Developed Flask backend handling conversation workflows and API endpoints  
+• Integrated Llama 2 and vector search using ChromaDB for contextual responses  
+
+
+### Azure DevOps Insights Platform  
+C# • REST APIs • SQL Server • Power BI  
+
+Analytics tool for analysing Azure DevOps build and release pipelines.
+
+• Collected build and release data using Azure DevOps REST APIs  
+• Stored structured metrics in SQL Server for analysis  
+• Generated operational dashboards and visual insights using Power BI  
+
+
+### Driving Test 4-in-1 Mobile App  
+React Native • TypeScript • Expo  
+
+Mobile application helping UK learner drivers prepare for theory tests.
+
+• Implemented practice questions, road sign reference, and highway code access  
+• Added dark mode support and persistent settings  
+• Integrated text-to-speech functionality for accessibility and learning support  
+
+
+### Social Network Core Mobile App  
+React Native • Mobile Application Development  
+
+Prototype social networking application for mobile platforms.
+
+• Implemented image uploads, comments, and location tagging  
+• Designed mobile UI flows for user interactions and content sharing
+
+---
+
 ## Current Focus
 
 • Backend service architecture  
