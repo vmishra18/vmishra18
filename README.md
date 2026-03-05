@@ -84,7 +84,12 @@ Python • Flask • PostgreSQL
 
 # 📈 GitHub Stats
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vmishra18&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmishra18&theme=tokyonight" />
+</p>
 
 ---
 
