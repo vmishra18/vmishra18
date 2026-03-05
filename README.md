@@ -85,11 +85,7 @@ Python • Flask • PostgreSQL
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vmishra18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img src="https://metrics.lecoq.io/vmishra18?template=classic&languages=1&achievements=1&base=header%2Cactivity%2Crepositories&config.timezone=Europe%2FLondon" />
 </p>
 
 ---
