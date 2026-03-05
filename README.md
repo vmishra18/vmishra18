@@ -66,6 +66,7 @@ Typical areas I focus on include:
 ### Mobile
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ---
 
