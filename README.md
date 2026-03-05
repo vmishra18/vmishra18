@@ -7,37 +7,36 @@
 </p>
 
 <p align="center">
-Software Engineer building reliable backend services, mobile applications, and data systems.
+Software Engineer focused on building reliable backend systems, APIs, and mobile applications.
 </p>
 
 ---
 
 # About Me
 
-I am a software engineer focused on building **reliable systems that operate well in production environments**.
+I build software designed to **operate reliably in real production environments**.
 
-My work centres around designing **backend services, APIs, and data-driven applications** that remain maintainable, observable, and scalable over time.
+My work focuses on **backend services, APIs, and data driven applications**, with an emphasis on systems that remain maintainable, observable, and scalable as they grow.
 
-I enjoy building software that connects **applications, data, and automation** to solve real operational problems.
+I enjoy solving practical engineering problems by connecting **applications, infrastructure, and data systems** to build useful and dependable tools.
 
-My interests are particularly aligned with:
+My main areas of interest include:
 
-• backend engineering  
-• distributed systems  
-• developer productivity tooling  
-• data platforms and analytics systems  
-• scalable application infrastructure
+• Backend engineering  
+• Distributed systems  
+• Data platforms and analytics infrastructure  
+• Developer productivity tooling  
+• Scalable application architecture
 
-I hold a **Master’s degree in Advanced Computer Science** and enjoy continuously learning how complex software systems evolve in production.
+I hold a **Master’s degree in Advanced Computer Science** and enjoy continuously learning how large software systems evolve and operate in production.
 
 ---
 
-# What I Am Currently Working On
+# Current Focus
 
-• Backend services and API design  
-• Event driven system architectures  
-• Data pipelines and analytics tooling  
-• React Native mobile applications  
+• Backend service architecture and API design  
+• Event driven systems and asynchronous processing  
+• Data pipelines and analytics platforms• React Native mobile applications  
 • Engineering observability and automation tools
 
 ---
