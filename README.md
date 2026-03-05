@@ -86,6 +86,9 @@ Typical areas I focus on include:
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
+
+
+
 <a href="https://www.linkedin.com/in/vishal-mishra-0959601a4">
 <img src="https://img.shields.io/badge/LinkedIn-Vishal_Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
