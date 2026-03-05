@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%7C+Mobile+%7C+Data+Systems;Building+Reliable+Software;Curious+About+How+Systems+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Systems+%7C+Mobile+Development;Data+Engineering+%7C+APIs;Building+Reliable+Software"/>
 
 </p>
 
@@ -14,40 +14,29 @@
 
 # About Me
 
-I’m a software engineer focused on building **reliable systems and practical software**.
+Software engineer focused on building **reliable backend systems, mobile applications, and data driven tools**.
 
-My work sits mainly at the intersection of **backend engineering, mobile development, and data systems**. I enjoy understanding how software behaves in real environments and designing solutions that remain maintainable as systems grow.
+My work centres around designing services and platforms that remain **maintainable, observable, and scalable** as they grow. I enjoy working on systems where software, infrastructure, and data intersect.
 
-Much of my work revolves around building services, APIs, and data tooling that help teams **move faster while keeping systems stable and observable**.
+Areas I particularly enjoy working in
 
-Areas I naturally gravitate toward include
-
-• Backend architecture  
-• Distributed systems  
-• Data pipelines and analytics tooling  
-• Developer productivity tools  
+• Backend architecture and APIs  
+• Distributed and event driven systems  
+• Data processing and analytics platforms  
+• Engineering tooling and developer productivity  
 
 ---
 
-# What I'm Currently Working On
+# Current Focus
 
-• Mobile applications using **React Native and TypeScript**  
-• Backend services using **Python and Java**  
-• Data pipelines and automation workflows  
-• Tools that improve **engineering visibility and productivity**
-
----
-
-# Things I Enjoy Solving
-
-⚙️ Designing clean and understandable architectures  
-🔧 Building APIs that remain stable as products evolve  
-📊 Turning operational data into useful insights  
-🚀 Improving developer workflows and engineering productivity  
+• Building mobile tools with **React Native and TypeScript**  
+• Developing backend services with **Python and Java**  
+• Designing data processing pipelines and analytics workflows  
+• Improving engineering visibility through metrics and automation
 
 ---
 
-# Tech Stack
+# Technical Stack
 
 <p align="center">
 
@@ -55,54 +44,43 @@ Areas I naturally gravitate toward include
 
 </p>
 
-Core areas I work with
-
 Backend  
 Python • Java • Node.js • REST APIs
 
-Frontend / Mobile  
+Mobile / Frontend  
 React • React Native • TypeScript
 
-Data & Infrastructure  
+Infrastructure & Data  
 PostgreSQL • AWS • Docker • Linux
 
 ---
 
-# Selected Projects
+# Selected Work
 
 ### Driving Test Toolkit
 
-A mobile application designed to help learner drivers prepare for their theory and hazard perception tests while providing practical driving utilities.
+Mobile application designed to help learner drivers prepare for theory and hazard perception tests while providing practical driving utilities.
 
 Tech  
-React Native • TypeScript • Mobile UI Architecture
-
-Focus  
-Mobile UX, modular navigation architecture, reusable components
+React Native • TypeScript • Mobile UI architecture
 
 ---
 
 ### Azure DevOps Engineering Insights
 
-An analytics system that collects engineering data from Azure DevOps and visualises delivery metrics across development teams.
+Analytics platform that collects engineering activity data from Azure DevOps and visualises delivery performance across teams.
 
 Tech  
-C# • Azure DevOps API • Power BI
-
-Focus  
-Engineering metrics, operational reporting, development insights
+C# • Azure DevOps API • Power BI • Data analytics
 
 ---
 
 ### Satellite Operations System
 
-Backend platform for managing structured operational data and exposing analytics dashboards for monitoring activity and performance.
+Backend platform for managing structured operational data and exposing analytics dashboards.
 
 Tech  
 Python • Flask • PostgreSQL
-
-Focus  
-API design, data modelling, analytics services
 
 ---
 
@@ -137,12 +115,10 @@ API design, data modelling, analytics services
 
 # Engineering Principles
 
-Software should remain understandable long after it is written.
-
-• Prefer clarity over cleverness  
-• Build systems that degrade gracefully  
-• Design software that other engineers can easily extend  
-• Solve real problems rather than creating unnecessary complexity  
+• Keep systems understandable long after they are written  
+• Prefer clarity and reliability over clever abstractions  
+• Build software that fails gracefully  
+• Focus on solving real operational problems  
 
 ---
 
