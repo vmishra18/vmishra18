@@ -6,47 +6,48 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishal+👋;Software+Engineer;Backend+%7C+Mobile+%7C+Data+Systems;Builder+of+Useful+Software;Always+Learning+New+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%7C+Mobile+%7C+Data+Systems;Building+Reliable+Software;Curious+About+How+Systems+Work"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I’m a software engineer focused on building **practical, scalable, and reliable systems**.
+I’m a software engineer focused on building **reliable systems and practical software**.
 
-My work mainly revolves around **backend services, mobile applications, and data-driven tools**.  
-I enjoy understanding how systems behave under real workloads and designing solutions that remain **maintainable as they scale**.
+My work sits mainly at the intersection of **backend engineering, mobile development, and data systems**. I enjoy understanding how software behaves in real environments and designing solutions that remain maintainable as systems grow.
 
-I’m particularly interested in:
+Much of my work revolves around building services, APIs, and data tooling that help teams **move faster while keeping systems stable and observable**.
 
+Areas I naturally gravitate toward include
+
+• Backend architecture  
 • Distributed systems  
-• Developer tooling  
-• Data platforms  
-• Well designed APIs
+• Data pipelines and analytics tooling  
+• Developer productivity tools  
 
 ---
 
-# 🚀 What I'm Currently Building
+# What I'm Currently Working On
 
-- Mobile tools using **React Native + TypeScript**
-- Backend services using **Python and Java**
-- Data analytics pipelines and automation tools
-- Developer workflows that improve engineering productivity
-
----
-
-# 🧠 Things I Enjoy Working On
-
-⚙️ Designing clean architectures  
-🔧 Building maintainable APIs  
-📊 Turning messy real world data into insights  
-🚀 Improving developer workflows and systems reliability  
+• Mobile applications using **React Native and TypeScript**  
+• Backend services using **Python and Java**  
+• Data pipelines and automation workflows  
+• Tools that improve **engineering visibility and productivity**
 
 ---
 
-# 🛠 Tech Stack
+# Things I Enjoy Solving
+
+⚙️ Designing clean and understandable architectures  
+🔧 Building APIs that remain stable as products evolve  
+📊 Turning operational data into useful insights  
+🚀 Improving developer workflows and engineering productivity  
+
+---
+
+# Tech Stack
 
 <p align="center">
 
@@ -54,37 +55,58 @@ I’m particularly interested in:
 
 </p>
 
+Core areas I work with
+
+Backend  
+Python • Java • Node.js • REST APIs
+
+Frontend / Mobile  
+React • React Native • TypeScript
+
+Data & Infrastructure  
+PostgreSQL • AWS • Docker • Linux
+
 ---
 
-# 📂 Projects I'm Proud Of
+# Selected Projects
 
-### 🚗 Driving Test Toolkit
-Mobile app combining theory tests, hazard perception training and driving utilities.
+### Driving Test Toolkit
+
+A mobile application designed to help learner drivers prepare for their theory and hazard perception tests while providing practical driving utilities.
 
 Tech  
 React Native • TypeScript • Mobile UI Architecture
 
+Focus  
+Mobile UX, modular navigation architecture, reusable components
+
 ---
 
-### 📊 Azure DevOps Insights
-Analytics system collecting engineering metrics from Azure DevOps and visualising delivery performance.
+### Azure DevOps Engineering Insights
+
+An analytics system that collects engineering data from Azure DevOps and visualises delivery metrics across development teams.
 
 Tech  
-C# • Azure DevOps API • Power BI • Data Analytics
+C# • Azure DevOps API • Power BI
+
+Focus  
+Engineering metrics, operational reporting, development insights
 
 ---
 
-### 🛰 Satellite Operations System
-Backend service for managing structured operational data and exposing analytics dashboards.
+### Satellite Operations System
+
+Backend platform for managing structured operational data and exposing analytics dashboards for monitoring activity and performance.
 
 Tech  
 Python • Flask • PostgreSQL
 
+Focus  
+API design, data modelling, analytics services
+
 ---
 
-# 📈 GitHub Stats
-
-## 📊 GitHub Stats
+# GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
@@ -93,7 +115,7 @@ Python • Flask • PostgreSQL
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <p align="center">
 
@@ -103,7 +125,7 @@ Python • Flask • PostgreSQL
 
 ---
 
-# 📊 Activity Graph
+# Development Activity
 
 <p align="center">
 
@@ -113,26 +135,18 @@ Python • Flask • PostgreSQL
 
 ---
 
-# 🐍 Contribution Snake
+# Engineering Principles
 
-<p align="center">
+Software should remain understandable long after it is written.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ⚙️ Engineering Principles
-
-• Code should remain understandable months later  
-• Systems should fail gracefully rather than unpredictably  
-• Simplicity beats cleverness  
-• Good software solves real problems  
+• Prefer clarity over cleverness  
+• Build systems that degrade gracefully  
+• Design software that other engineers can easily extend  
+• Solve real problems rather than creating unnecessary complexity  
 
 ---
 
-# 🌍 Connect
+# Connect
 
 GitHub  
 https://github.com/vmishra18
