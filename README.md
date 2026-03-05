@@ -1,26 +1,12 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=220&section=header&text=Vishal%20Mishra&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8BF5,100:7B68EE&height=200&section=header&text=Vishal%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=720&lines=Software+Engineer;Backend+Systems+%7C+Mobile+Engineering;Building+Reliable+Software;Distributed+Systems+Enthusiast"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/vmishra18">
-<img src="https://img.shields.io/github/followers/vmishra18?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/vmishra18">
-<img src="https://img.shields.io/github/stars/vmishra18?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=vmishra18&style=for-the-badge&color=blue"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=4C8BF5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishal+👋;Software+Engineer;Backend+%7C+Mobile+%7C+Data+Systems;Builder+of+Useful+Software;Always+Learning+New+Systems"/>
 
 </p>
 
@@ -28,29 +14,39 @@
 
 # 👨‍💻 About Me
 
-Software engineer focused on building **scalable systems, clean APIs, and data driven applications**.
+I’m a software engineer focused on building **practical, scalable, and reliable systems**.
 
-My work primarily spans **backend engineering, mobile platforms, and analytics tooling**. I enjoy understanding how systems behave under real workloads and designing solutions that remain **maintainable as they grow**.
+My work mainly revolves around **backend services, mobile applications, and data-driven tools**.  
+I enjoy understanding how systems behave under real workloads and designing solutions that remain **maintainable as they scale**.
 
-Areas I enjoy exploring:
+I’m particularly interested in:
 
-• Distributed systems architecture  
-• Backend platform design  
-• Data pipelines and analytics platforms  
-• Developer tooling and engineering productivity  
-
----
-
-# 🚀 Current Focus
-
-• Building mobile tools with **React Native + TypeScript**  
-• Backend services using **Python and Java**  
-• Data analytics pipelines and automation systems  
-• Improving developer workflows and reliability engineering  
+• Distributed systems  
+• Developer tooling  
+• Data platforms  
+• Well designed APIs
 
 ---
 
-# 🛠 Technology Stack
+# 🚀 What I'm Currently Building
+
+- Mobile tools using **React Native + TypeScript**
+- Backend services using **Python and Java**
+- Data analytics pipelines and automation tools
+- Developer workflows that improve engineering productivity
+
+---
+
+# 🧠 Things I Enjoy Working On
+
+⚙️ Designing clean architectures  
+🔧 Building maintainable APIs  
+📊 Turning messy real world data into insights  
+🚀 Improving developer workflows and systems reliability  
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -60,10 +56,10 @@ Areas I enjoy exploring:
 
 ---
 
-# 📂 Selected Projects
+# 📂 Projects I'm Proud Of
 
 ### 🚗 Driving Test Toolkit
-A mobile application combining driving theory tests, hazard perception training, and driving utilities into a single toolkit.
+Mobile app combining theory tests, hazard perception training and driving utilities.
 
 Tech  
 React Native • TypeScript • Mobile UI Architecture
@@ -71,7 +67,7 @@ React Native • TypeScript • Mobile UI Architecture
 ---
 
 ### 📊 Azure DevOps Insights
-Analytics system that collects engineering delivery metrics from Azure DevOps and visualises performance through dashboards.
+Analytics system collecting engineering metrics from Azure DevOps and visualising delivery performance.
 
 Tech  
 C# • Azure DevOps API • Power BI • Data Analytics
@@ -79,26 +75,20 @@ C# • Azure DevOps API • Power BI • Data Analytics
 ---
 
 ### 🛰 Satellite Operations System
-Backend service for managing structured operational datasets and exposing analytics dashboards through service APIs.
+Backend service for managing structured operational data and exposing analytics dashboards.
 
 Tech  
 Python • Flask • PostgreSQL
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmishra18&theme=tokyonight" />
+# 📈 GitHub Stats
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vmishra18&theme=tokyonight" />
 
-</p>
-
 ---
 
-# 🔥 Contribution Activity
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -108,7 +98,7 @@ Python • Flask • PostgreSQL
 
 ---
 
-# 📊 Development Activity
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -118,11 +108,21 @@ Python • Flask • PostgreSQL
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 # ⚙️ Engineering Principles
 
 • Code should remain understandable months later  
 • Systems should fail gracefully rather than unpredictably  
-• Simplicity is usually better than cleverness  
+• Simplicity beats cleverness  
 • Good software solves real problems  
 
 ---
@@ -136,6 +136,12 @@ LinkedIn
 https://www.linkedin.com/in/vishalmishra018/
 
 ---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vmishra18&style=for-the-badge&color=blue"/>
+
+</p>
 
 <p align="center">
 
