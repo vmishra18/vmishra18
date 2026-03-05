@@ -22,48 +22,79 @@ I hold a **Master’s degree in Advanced Computer Science** and continuously exp
 
 ---
 
-## Areas of Interest
+## Architecture & Systems Focus
 
-• Backend engineering  
-• Distributed systems  
-• Data platforms and analytics infrastructure  
-• Event-driven architectures  
-• Scalable application infrastructure  
+I enjoy working on systems that require thoughtful design and operational reliability.
+
+Typical areas I focus on include:
+
+• Service oriented backend architectures  
+• Event driven processing systems  
+• Data processing pipelines and analytics platforms  
+• Scalable API platforms  
+• System observability and reliability engineering  
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-Python • Java • Go • Rust • TypeScript • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**Backend & Infrastructure**
+### Backend & Infrastructure
 
-Flask • Django • Node.js • PostgreSQL • Kafka • Redis
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-AWS • Docker • Kubernetes • CI/CD
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat&logo=githubactions&logoColor=white)
 
-**Mobile**
+### Mobile
 
-React Native • TypeScript
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
 ## Current Focus
 
 • Backend service architecture  
-• Event-driven systems  
-• Data pipelines and analytics platforms
+• Event driven systems  
+• Data pipelines and analytics platforms  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vmishra18&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
 ## Connect
 
-LinkedIn  
-https://www.linkedin.com/in/vishal-mishra-0959601a4
+<p align="left">
 
-Portfolio  
-https://vmishra.dev
+<a href="https://www.linkedin.com/in/vishal-mishra-0959601a4">
+<img src="https://img.shields.io/badge/LinkedIn-Vishal_Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vmishra.dev">
+<img src="https://img.shields.io/badge/Portfolio-vmishra.dev-000000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
